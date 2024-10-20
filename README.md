@@ -23,10 +23,7 @@ Sunday                   33 commits          ██░░░░░░░░░�
 
 
 📊 **This Week I Spent My Time On** 
-
 ```text
-🕑︎ Time Zone: America/Chicago
-
 💻 Operating System: 
 Linux                    22 mins             █████████████████████████   100.00 % 
 ```
