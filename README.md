@@ -39,3 +39,5 @@ Linux                    22 mins             ███████████�
 <!--END_SECTION:waka-->
 
 
+
+Ah yes, ***Chrome***
