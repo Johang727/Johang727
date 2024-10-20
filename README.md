@@ -34,7 +34,3 @@ Linux                    22 mins             ███████████�
 
  Last Updated on 20/10/2024 05:33:55 UTC
 <!--END_SECTION:waka-->
-
-
-
-Ah yes, ***Chrome***
