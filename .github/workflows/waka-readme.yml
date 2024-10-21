@@ -25,5 +25,6 @@ jobs:
           SHOW_UPDATED_DATE: True
           SHOW_TIMEZONE: False
           SYMBOL_VERSION: 2
+          SHOW_OS: False
           
 
