@@ -1,4 +1,15 @@
-soon™️
+<p align = "left">
+  <img src="https://github.com/Johang727/Johang727/blob/main/assets/about_label.png" width="500" />
+</p>
+<!-- about -->
+
+Really unsure what to put here... I'll *probably* think of something soon™️.
+
+----
+
+<p align = "left">
+  <img src="https://github.com/Johang727/Johang727/blob/main/assets/commits_label.png" width="500" />
+</p>
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
@@ -24,3 +35,21 @@ Sunday                   108 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 <!--END_SECTION:waka-->
+
+----
+
+<p align = "left">
+  <img src="https://github.com/Johang727/Johang727/blob/main/assets/languages_label.png" width="500" />
+</p>
+
+English, Spa- what? wrong type of language? Oh.. uhhh.. scratch?
+
+Throw some python and a small amount of C# in there, and you've got my programming knowledge.
+
+----
+
+<p align = "left">
+  <img src="https://github.com/Johang727/Johang727/blob/main/assets/software_label.png" width="500" />
+</p>
+
+I tend to use Visual Studio Code on Linux for most projects, however, I'm experimenting with Unity.
