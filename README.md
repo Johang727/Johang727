@@ -44,7 +44,7 @@ Sunday                   108 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 English, Spa- what? wrong type of language? Oh.. uhhh.. scratch?
 
-Throw some python and a small amount of C# in there, and you've got my programming knowledge.
+oh and some Python + a small amount of C#!
 
 ----
 
@@ -52,4 +52,6 @@ Throw some python and a small amount of C# in there, and you've got my programmi
   <img src="https://github.com/Johang727/Johang727/blob/main/assets/software_label.png" width="500" />
 </p>
 
-I tend to use Visual Studio Code on Linux for most projects, however, I'm experimenting with Unity.
+I tend to use Visual Studio Code on Linux for most projects.
+
+I used to use Scratch for game making, but have decided to do some more experimenting with Unity.
