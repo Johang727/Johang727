@@ -3,7 +3,8 @@
 </p>
 <!-- about -->
 
-Really unsure what to put here... I'll *probably* think of something soon™️.
+Avid supporter of light mode.
+
 
 ----
 
