@@ -12,7 +12,7 @@ Always willing to learn something new!
 ----
 
 <p align = "left">
-  <img src="https://github.com/Johang727/Johang727/blob/main/assets/commits_label.png" width="500" />
+  <img src="https://github.com/Johang727/Johang727/blob/62c7e663bdc7fa764c84e729dad1bb27a1669013/assets/commits_label.png" width="500" />
 </p>
 
 <!--START_SECTION:waka-->
