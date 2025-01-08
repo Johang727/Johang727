@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-hi
-=======
 <p align = "left">
   <img src="https://github.com/Johang727/Johang727/blob/main/assets/about_label.png" width="500" />
 </p>
@@ -64,4 +61,3 @@ I tend to use Visual Studio Code on Linux for most text-based projects.
 TurboWarp for meme games that I make (mostly 'cause I have learned how to make games)
 
 I've started to experiment with Unity because I decided to be the Vice President of a club!
->>>>>>> 90e400398095fe909658749a6e71ac0384816b36
