@@ -11,10 +11,6 @@
 
 Avid supporter of light mode.
 
-Doane Uni Student and Video Game Development Club Vice President
-
-Always willing to learn something new!
-
 ----
 
 <p align = "left">
@@ -65,5 +61,3 @@ oh and some Python + a small amount of C#!
 I tend to use Visual Studio Code on Linux for most text-based projects.
 
 TurboWarp for meme games that I make (mostly 'cause I have learned how to make games)
-
-I've started to experiment with Unity because I decided to be the Vice President of a club!
