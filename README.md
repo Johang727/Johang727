@@ -9,7 +9,7 @@
 </p>
 <!-- about -->
 
-Avid supporter of light mode.
+Eeeepyyy
 
 ----
 
