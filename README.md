@@ -50,7 +50,7 @@ Sunday                   145 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 English, Spa- what? wrong type of language? Oh.. uhhh.. scratch?
 
-oh and some Python + a small amount of C#!
+
 
 ----
 
