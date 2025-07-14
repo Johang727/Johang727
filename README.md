@@ -9,7 +9,7 @@
 </p>
 <!-- about -->
 
-Dex Number 136
+Dex #136
 
 ----
 
