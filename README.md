@@ -9,7 +9,7 @@
 </p>
 <!-- about -->
 
-Serial eeper 
+Dex Number 136
 
 ----
 
@@ -53,11 +53,3 @@ English, Spa- what? wrong type of language? Oh.. uhhh.. scratch?
 
 
 ----
-
-<p align = "left">
-  <img src="https://github.com/Johang727/Johang727/blob/main/assets/software_label.png" width="500" />
-</p>
-
-I tend to use Visual Studio Code on Linux for most text-based projects.
-
-TurboWarp for meme games that I make (mostly 'cause I have learned how to make games)
