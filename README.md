@@ -23,8 +23,10 @@
     - **Pokémon Mystery Dungeon: Explorers of Sky**
         - Current Favorite Hack: [**Lonely Roads**](https://hacks.skytemple.org/h/lonely_roads) by **lr_okami**
     - **Tetris Effect: Connected**
- - Currently Playing:
     - **Persona 3 Reload**
+ - Currently Playing:
+    - **Pokémon Mystery Dungeon: Red Rescue Team**
+    - **Persona 3 Portable FeMC**
 ----
 
 ### Commit Breakdown:
