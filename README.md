@@ -7,14 +7,15 @@
 ### Current Projects
  - Currently experimenting with **Machine Learning** and **HTML**
      - [Check it out here!](https://github.com/Johang727/TECSRCalc)
-     - Busy with homework and other misc. things, so updates will not be as frequent. 
- - Expect to see updates to my Kattis Problem repo every week.
+     - Busy with homework and other misc. things, so updates will not be as frequent.
+     - Project is mostly complete, just a fow QoL features remain.
+ - Expect to see updates to my Kattis Problem repo at least every month.
      - [Check that out here.](https://github.com/Johang727/ProgrammingTeam)
  - More to come soon!
 
 ### Software Setup
- - ElementaryOS + Visual Studio Code
-    - Messed too much with the Linux Terminal to back out now.
+ - CatchyOS
+    - Unfortunately, I can officially say I use Arch...
 
 ----
 
@@ -24,9 +25,6 @@
         - Current Favorite Hack: [**Lonely Roads**](https://hacks.skytemple.org/h/lonely_roads) by **lr_okami**
     - **Tetris Effect: Connected**
     - **Persona 3 Reload**
- - Currently Playing:
-    - **Pokémon Mystery Dungeon: Red Rescue Team**
-    - **Persona 3 Portable FeMC**
 ----
 
 ### Commit Breakdown:
