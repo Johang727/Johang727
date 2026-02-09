@@ -8,7 +8,7 @@
  - Currently experimenting with **Machine Learning** and **HTML**
      - [Check it out here!](https://github.com/Johang727/TECSRCalc)
      - Busy with homework and other misc. things, so updates will not be as frequent.
-     - Project is mostly complete, just a fow QoL features remain.
+     - Project is mostly complete, just a few QoL features remain.
  - Expect to see updates to my Kattis Problem repo at least every month.
      - [Check that out here.](https://github.com/Johang727/ProgrammingTeam)
  - More to come soon!
