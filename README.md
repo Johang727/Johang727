@@ -14,7 +14,7 @@
  - More to come soon!
 
 ### Software Setup
- - CatchyOS
+ - CachyOS
     - Unfortunately, I can officially say I use Arch...
 
 ----
