@@ -5,10 +5,9 @@
 ----
 
 ### Current Projects
- - Currently experimenting with **Machine Learning** and **HTML**
-     - [Check it out here!](https://github.com/Johang727/TECSRCalc)
-     - Busy with homework and other misc. things, so updates will not be as frequent.
-     - Project is mostly complete, just a few QoL features remain.
+ - Expect updates on my website weekly!
+   - [Website Link.](https://johang.dev)
+   - [GitHub Repo.](https://github.com/Johang727/website)
  - Expect to see updates to my Kattis Problem repo at least every month.
      - [Check that out here.](https://github.com/Johang727/ProgrammingTeam)
  - More to come soon!
