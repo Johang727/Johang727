@@ -20,7 +20,7 @@
 
 ### Games
  - Favorites:
-    - **Pokémon Mystery Dungeon: Explorers of Sky**
+    - **[Pokémon Mystery Dungeon: Explorers of Sky](https://johang.dev/scratchpad/pmd-sky)**
         - Best Long Story Hack: [**Lonely Roads**](https://hacks.skytemple.org/h/lonely_roads) by **lr_okami**
         - Best Short Story Hack: [**Strung Up By Sketches**](https://hacks.skytemple.org/h/strungupbysketches) by **adex_8x, irdkwia, & techticks**
     - **Tetris Effect: Connected**
