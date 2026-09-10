@@ -5,7 +5,7 @@
 ----
 
 ### Current Projects
- - Expect updates on my website weekly!
+ - The Occasional Update on my Website
    - [Website Link.](https://johang.dev)
    - [GitHub Repo.](https://github.com/Johang727/website)
  - Expect to see updates to my Kattis Problem repo at least every month.
